@@ -1,0 +1,14 @@
+.some-parallax {
+    background-image: url('../assets/images/imagen2.jpg');
+    background-size: 100%;
+    height: 500px;
+    width: 100%;
+    text-align: center;
+    
+  }
+  .some-parallax2 {
+    background-image: url('../assets/images/imagen1.jpg');
+    background-size: 100%;
+    height: 300px;
+    width: 100%;
+  }
