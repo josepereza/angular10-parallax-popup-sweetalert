@@ -1,4 +1,6 @@
 # Modal2
+* https://www.npmjs.com/package/ng2-parallaxscroll
+* https://www.npmjs.com/package/sweetalert2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
 
