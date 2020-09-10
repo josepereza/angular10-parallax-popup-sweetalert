@@ -2,6 +2,8 @@
 * https://www.npmjs.com/package/ng2-parallaxscroll
 * https://www.npmjs.com/package/sweetalert2
 
+![images](parallax.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
 
 ## Development server
